@@ -1,10 +1,11 @@
 !
+! Title: NintendoSwitch DNS Filter
 ! Description: DNS block list for Nintendo Servers that can be used for AdGuardHome.
-! Source: https://gitlab.com/a/90dns
+! Version: 1.0
+! Homepage: https://gitlab.com/a/90dns
 ! License: GPLv3
-! Last modified: 2025-07-26
+! Last modified: 2025-07-28616:09:26.683Z
 !
-
 ||nintendo.com^
 ||nintendo.net^
 ||nintendo.jp^
