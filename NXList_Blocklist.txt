@@ -1,4 +1,4 @@
-# idk, tba
+# To rewrite the wifi test website, it have to be added under "filter rules":
 
 95.216.149.205 conntest.nintendowifi.net
 95.216.149.205 ctest.cdn.nintendo.net
