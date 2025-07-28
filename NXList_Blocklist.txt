@@ -1,0 +1,5 @@
+# idk, tba
+
+95.216.149.205 conntest.nintendowifi.net
+95.216.149.205 ctest.cdn.nintendo.net
+95.216.149.205 90dns.test
