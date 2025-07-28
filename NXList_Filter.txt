@@ -1,0 +1,41 @@
+!
+! Description: DNS block list for Nintendo Servers that can be used for AdGuardHome.
+! Source: https://gitlab.com/a/90dns
+! License: GPLv3
+! Last modified: 2025-07-26
+!
+
+||nintendo.com^
+||nintendo.net^
+||nintendo.jp^
+||nintendo.co.jp^
+||nintendo.co.uk^
+||nintendo-europe.com^
+||nintendowifi.net^
+||nintendo.es^
+||nintendo.co.kr^
+||nintendo.tw^
+||nintendo.com.hk^
+||nintendo.com.au^
+||nintendo.co.nz^
+||nintendo.at^
+||nintendo.be^
+||nintendods.cz^
+||nintendo.dk^
+||nintendo.de^
+||nintendo.fi^
+||nintendo.fr^
+||nintendo.gr^
+||nintendo.hu^
+||nintendo.it^
+||nintendo.nl^
+||nintendo.no^
+||nintendo.pt^
+||nintendo.ru^
+||nintendo.co.za^
+||nintendo.se^
+||nintendo.ch^
+||nintendo.pl^
+||nintendoswitch.com^
+||nintendoswitch.com.cn^
+||nintendoswitch.cn^
